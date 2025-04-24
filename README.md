@@ -36,9 +36,3 @@
 
 ## 🧩 CTF Profiles
 - TryHackMe: [janijay007](https://tryhackme.com/p/janijay007)
-
-## 📜 Certifications
-- Offensive Security Certified Professional (OSCP)
-- Multi-Cloud Red Team Analyst (MCRTA)
-- Certified AppSec Pentesting eXpert (CAPenX)
-```
